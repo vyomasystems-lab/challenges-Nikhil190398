@@ -1,4 +1,4 @@
-// See LICENSE.vyoma for more details
+//See LICENSE.vyoma for more details
 
 module up_down_counter(clk, rst, data, updown, load, data_out);
 	
